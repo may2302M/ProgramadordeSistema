@@ -1,0 +1,6 @@
+["Algoritimo fase 8"]
+["repita 4 vezes avance"]
+["vire á esquerda"]
+["repita 4 vezes avance"]
+["vire á esquerda"]
+["repita 2 vezes avance"]
